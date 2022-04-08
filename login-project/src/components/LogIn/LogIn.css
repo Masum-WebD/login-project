@@ -1,0 +1,30 @@
+.logIn-form{
+    background-color: gray;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.btn-icon-login{
+    border:none;
+    border-radius:5px;
+    margin-top:5px;
+    width: 180px;
+    height:50px
+}
+.orForIcon{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+}
+.icons-container{
+    background-color:palevioletred;
+    margin-top:60px ;
+    margin-left: 34px;
+    padding:10px;
+    border-radius:20px;
+    display:flex;
+    align-items: center;
+}
+.icon-img{
+    width: 70px;
+    height: 50px;
+}
